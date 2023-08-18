@@ -1,0 +1,130 @@
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbprojResolveAssemblyReference.cache
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.xml
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.xml
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.ResolveComReference.cache
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewClassForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.HomeForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.LoginForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StartUpForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Resources.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentDetailForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentRegistrationForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.TestForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.UpdateStudentForm.resources
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.GenerateResource.Cache
+D:\Mustafa\School Management Project\SchoolManagementSystemOLD\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ClassDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.ResolveComReference.cache
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewClassForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ClassDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.HomeForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.LoginForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StartUpForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Resources.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentRegistrationForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.TestForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.UpdateStudentForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.GenerateResource.Cache
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystemNEW\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbprojResolveAssemblyReference.cache
+D:\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.ResolveComReference.cache
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.xml
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.xml
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbprojResolveAssemblyReference.cache
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewClassForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewEmployeeForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ClassDetailForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.HomeForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.LoginForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StartUpForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Resources.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentDetailForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentRegistrationForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.TestForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.UpdateStudentForm.resources
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.GenerateResource.Cache
+D:\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.EmployeeDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.SchoolManagementSystem.exe.config
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.ResolveComReference.cache
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewClassForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewEmployeeForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewFeesForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewStudentForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AddNewSubjectForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ClassDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.EmployeeDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.HomeForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.LoginForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StartUpForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Resources.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentDetailForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.TestForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.UpdateStudentForm.resources
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbproj.GenerateResource.Cache
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe.licenses
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.xml
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Mustafa Work\Working\VB.NET Working\School Management Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.vbprojResolveAssemblyReference.cache
